@@ -1,6 +1,6 @@
 ## Hi there :computer:
 
-Me chamo Davidson, sou programador Front End e estou desenvolvendo projetos com:
+Eu me chamo Davidson, sou programador Front End e estou desenvolvendo projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
@@ -13,6 +13,5 @@ Me chamo Davidson, sou programador Front End e estou desenvolvendo projetos com:
 <br>
 <br>
 <br>
-E estou iniciando o aprendizado em React.
 <br>
 [![Davidson GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidsonDamaceno)](https://github.com/anuraghazra/github-readme-stats)
