@@ -12,7 +12,7 @@ Me chamo Davidson, sou programador Front End e estou desenvolvendo projetos com:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="js-logo">
 <br>
 <br>
-E estou iniciando o aprendizado em React.
 <br>
+E estou iniciando o aprendizado em React.
 <br>
 [![Davidson GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidsonDamaceno)](https://github.com/anuraghazra/github-readme-stats)
