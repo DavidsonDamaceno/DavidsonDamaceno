@@ -29,8 +29,4 @@ I'm Davidson, sou programador, me desenvovendo em Full Stack e utilizando as seg
 </div>
 <br>
 <br>
-## 📊 Estatísticas
-<div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidsonDamaceno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsonDamaceno&layout=compact&theme=dracula" />
-</div>
+
