@@ -1,6 +1,6 @@
 ## Hi there :computer:
 
-I'm Davidson, sou programador, me desenvovendo em Full Stack e utilizando as seguintes tecnologias em meus projetos:
+I'm Davidson, sou programador, me desenvolvendo em Full Stack e utilizando as seguintes tecnologias em meus projetos:
 <br>
 ## 🛠️ Tecnologias
 <div style="display: inline_block">
